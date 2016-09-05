@@ -10,15 +10,15 @@
 	<description>Core functionality for the KenyaEMR</description>
 
 	<organization>
-		<name>I-TECH</name>
-		<url>http://www.go2itech.org</url>
+		<name>HISP India</name>
+		<url>http://www.hispindia.org</url>
 	</organization>
 
 	<scm>
-		<connection>scm:git:git@github.com:I-TECH/openmrs-module-kenyacore.git</connection>
-		<developerConnection>scm:git:git@github.com:I-TECH/openmrs-module-kenyacore.git</developerConnection>
-		<url>scm:git:git@github.com:I-TECH/openmrs-module-kenyacore.git</url>
-		<tag>2.2</tag>
+		<connection>scm:git:git@github.com:hispindia/his-tb-core.git</connection>
+		<developerConnection>scm:git:git@github.com:hispindia/his-tb-core.git</developerConnection>
+		<url>scm:git:git@github.com:hispindia/his-tb-core.git</url>
+		<tag>1.0</tag>
 	</scm>
 
 	<modules>
